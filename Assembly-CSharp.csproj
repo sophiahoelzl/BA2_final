@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/VibrateController.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/LoadScene.cs" />
+    <Compile Include="Assets/AnimateHandOnInput.cs" />
     <Compile Include="Assets/DenysAlmaral/CityPeopleLite/Demo_Scenes/Scripts/CityPeople.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Conditions/OnButtonPress.cs" />
     <Compile Include="Assets/DenysAlmaral/CityPeopleLite/Demo_Scenes/Scripts/MaleTeacher.cs" />
@@ -79,6 +80,7 @@
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Controls/XRButton.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/StickToObject.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/ToggleParticle.cs" />
+    <Compile Include="Assets/PhysicRig.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/MoveWithVelocity.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Conditions/OnTrigger.cs" />
     <Compile Include="Assets/VR Room/Assets/_Course Library/Scripts/Actions/SpawnFromList.cs" />
